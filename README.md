@@ -3,6 +3,8 @@
 ### Hi there 👋, I'm Tuan Burah aka **[Captain Burah](https://www.instagram.com/captain_burah/)**
 I'm Tuan from Sri Lanka and I do freelance web design and development. I really enjoy learning languages and frameworks like Vue Js, Laravel, Node Js as well as work in Shopify. I also enjoy myself designing wireframes, ui and ux in general.
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tuanburah.medium.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/captain-burah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tuan-burah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/captainburah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Tuan_Burah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14991937/captain-burah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCulXZgnb_G_r4aCyybXrHcA) 
+
 ## Skills
 • 🔰 Vue Js
 • 🆚 Laravel
@@ -11,18 +13,3 @@ I'm Tuan from Sri Lanka and I do freelance web design and development. I really 
 ## Experience
 • 📚 LMS & VLE
 • 🥕 Stock Mgt. System
-
-<!--
-**captain-burah/captain-burah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
