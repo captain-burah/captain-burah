@@ -24,4 +24,7 @@ I'm a young freelance full stack web developer from Sri Lanka with a passionate 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-burah&layout=compact&theme=nightowl" />
 </a>
 <br>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/captain-burah/count.svg" />
+</p>
