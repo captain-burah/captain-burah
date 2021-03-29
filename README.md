@@ -1,7 +1,7 @@
-# Hi, I'm Tuan Burah aka **[Captain Burah](https://www.instagram.com/captain_burah/)**
+# Hi, I'm Tuan Burah 👋🏼👨🏼‍💻
 <img src="https://github.com/captain-burah/captain-burah/blob/main/Captain%20Burah%20(5).gif" />
 
-I'm a student member of the British Computer Society 
+I'm a young freelance full stack web developer with a passionate goal to elevate people's life, creating modern technology and building a brand new community. Few technologies that I enjoy working with the most include Vue Js and Larvel (Blade + Eloquent ORM). I am in the verge of completing my degree at the [British Computer Society](https://www.bcs.org/) with my final project submitted based on the revolution of educational systems with the use of VLE's (Virtual Learning Environments). I
 
 I'm Tuan from Sri Lanka and I do freelance web design and development. I really enjoy learning languages and frameworks like Vue Js, Laravel, Node Js as well as work in Shopify. I also enjoy myself designing wireframes, ui and ux in general.
 
