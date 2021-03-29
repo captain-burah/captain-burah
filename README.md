@@ -14,3 +14,19 @@ I'm Tuan from Sri Lanka and I do freelance web design and development. I really 
 ## Experience
 • 📚 LMS & VLE
 • 🥕 Stock Mgt. System
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+<a href="https://github.com/captain-burah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-burah&show_icons=true&include_all_commits=true&theme=nightowl" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/captain-burah/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captain-burah&layout=compact&theme=nightowl" />
+</a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/captain-burah/count.svg" />
+</p>
